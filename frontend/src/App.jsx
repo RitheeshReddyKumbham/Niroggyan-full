@@ -3,7 +3,7 @@ import Home from './pages/Home';
 import DoctorProfile from './pages/DoctorProfile';
 import BookAppointment from './pages/BookAppointment';
 import Help from './pages/Help';
-import Navbar from './components/NavBar';
+import Navbar from './components/Nav';
 
 function App() {
   return (
