@@ -23,7 +23,7 @@ A full-stack healthcare appointment platform built with the **MERN stack** (Mong
 https://github.com/RitheeshReddyKumbham/Niroggyan-full.git
 
 # for Backend
-- cd backend
+- cd server
 - npm install
 - node server.js
 
