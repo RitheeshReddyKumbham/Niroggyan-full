@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Ayesha Khan",
+    "specialization": "Cardiologist",
+    "image": "https://img.freepik.com/premium-photo/stylish-man-flat-vector-profile-picture-ai-generated_606187-309.jpg",
+    "availability": "Available Today",
+    "bio": "Experienced cardiologist with 15 years in clinical practice.",
+    "schedule": ["2025-08-03T10:00", "2025-08-03T11:00"]
+  },
+  {
+    "id": "2",
+    "name": "Dr. Rohan Mehta",
+    "specialization": "Dermatologist",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Yjb0dSbEiLEhoI2L21q8jQVc1XR6jnVWBw&s",
+    "availability": "On Leave",
+    "bio": "Skin specialist with a patient-first philosophy.",
+    "schedule": []
+  },
+  {
+    "id": "3",
+    "name": "Dr. Priya Sharma",
+    "specialization": "Pediatrician",
+    "image": "https://randomuser.me/api/portraits/women/65.jpg",
+    "availability": "Available Today",
+    "bio": "Compassionate child health expert.",
+    "schedule": ["2025-08-05T10:00", "2025-08-06T13:30"]
+  },
+  {
+    "id": "4",
+    "name": "Dr. Arjun Kapoor",
+    "specialization": "Orthopedic Surgeon",
+    "image": "https://randomuser.me/api/portraits/men/45.jpg",
+    "availability": "Fully Booked",
+    "bio": "Bone and joint specialist with 15+ years of surgery experience.",
+    "schedule": ["2025-08-05T12:30", "2025-08-05T04:00"]
+  },
+  {
+    "id": "5",
+    "name": "Dr. Neha Verma",
+    "specialization": "Psychiatrist",
+    "image": "https://randomuser.me/api/portraits/women/32.jpg",
+    "availability": "Available Today",
+    "bio": "Focused on mental wellness and therapy.",
+    "schedule": ["2025-08-05T15:00", "2025-08-06T10:30"]
+  },
+  {
+    "id": "6",
+    "name": "Dr. Sameer Joshi",
+    "specialization": "Neurologist",
+    "image": "https://randomuser.me/api/portraits/men/77.jpg",
+    "availability": "On Leave",
+    "bio": "Specialist in brain and spinal disorders.",
+    "schedule": ["2025-09-05T08:30", "2025-09-05T12:00"]
+  },
+  {
+    "id": "7",
+    "name": "Dr. Ritu Raj",
+    "specialization": "ENT Specialist",
+    "image": "https://randomuser.me/api/portraits/women/53.jpg",
+    "availability": "Available Today",
+    "bio": "Expert in treating ear, nose, and throat conditions.",
+    "schedule": ["2025-08-05T08:30", "2025-08-05T12:00"]
+  },
+  {
+    "id": "8",
+    "name": "Dr. Kavita Rao",
+    "specialization": "Gynecologist",
+    "image": "https://randomuser.me/api/portraits/women/23.jpg",
+    "availability": "Fully Booked",
+    "bio": "Women’s health expert with a warm and professional approach.",
+    "schedule": ["2025-08-07T08:30", "2025-08-07T12:00"]
+  },
+  {
+    "id": "9",
+    "name": "Dr. Vikram Desai",
+    "specialization": "General Physician",
+    "image": "https://randomuser.me/api/portraits/men/33.jpg",
+    "availability": "Available Today",
+    "bio": "Family doctor trusted by hundreds of patients.",
+    "schedule": ["2025-08-05T10:15", "2025-08-06T11:00"]
+  },
+  {
+    "id": "10",
+    "name": "Dr. Anjali Patil",
+    "specialization": "Endocrinologist",
+    "image": "https://randomuser.me/api/portraits/women/38.jpg",
+    "availability": "Available Today",
+    "bio": "Hormone specialist helping patients manage diabetes and thyroid disorders.",
+    "schedule": ["2025-08-05T13:00", "2025-08-06T09:30"]
+  }
+]
